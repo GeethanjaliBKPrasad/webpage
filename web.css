@@ -39,7 +39,7 @@ input#name{
     outline: 0;
     padding: 7px;
     background-color:white ;
-    box-shadow: inset 1px 1px 5px rgba(0,0,0,0,3);
+    box-shadow: inset 1px 1px 5px;
 
 }
 input#submit{
@@ -54,10 +54,10 @@ input#submit{
     color: white;
     cursor: pointer;
     border: 1px solid grey;
-    box-shadow: 1px 1px 5px rgb(0,0,0,0,3);
+    box-shadow: 1px 1px 5px 
     margin-bottom: 20px;
 
 }
 label,span,h2{
-    text-shadow: 1px 1px 5px rgba(0,0,0,0,3);
+    text-shadow: 1px 1px 1px ;
 }
